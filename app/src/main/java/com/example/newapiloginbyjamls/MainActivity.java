@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity
     EditText t1,t2,t3,t4,t5;
     TextView tv1;
     Button b1;
-    private static final String url="http://192.168.18.132/api/setdata.php";
+    private static final String url="http://192.168.1.143/api/setdata.php";
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {

@@ -20,7 +20,8 @@
             </intent-filter>
 
         </activity>
-        <activity android:name=".HomaActivity" />
+        <activity android:name=".HomaActivity"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".MainActivity"/>
 
 
